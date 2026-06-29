@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR3h0039/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR3h0039/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圖畫攷
+  date: '2015-09-12 00:49:51.730237'
+  source:
+    repository: kanripo
+    path: KR3h0039
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0039_000-SBCK.yaml, hash: 'sha256:642c7ceef20251b4b976286e2a35fd4ab19616047b15e7522498a30359edf159'}
+  - {seq: 1, filename: KR3h0039_001-SBCK.yaml, hash: 'sha256:d019c96e43e56d38c1cbb662f2241f06e6edde7b8556597ab09cdafbccbfdab8'}
+  - {seq: 2, filename: KR3h0039_002-SBCK.yaml, hash: 'sha256:11e3eb38835b5a7cb87f5241b99adde6ac4cb246949044d958ee70acc9b61f4b'}
+  - {seq: 3, filename: KR3h0039_003-SBCK.yaml, hash: 'sha256:bdbf1b19552e8998ee39c00525e69f3a7b22386742f6b260d1445ed7bb1220ad'}
+  - {seq: 4, filename: KR3h0039_004-SBCK.yaml, hash: 'sha256:e4f9a4de17157a66c54512d7456760faeb8ce88d4203a27886c7df6c90efa71d'}
+  - {seq: 5, filename: KR3h0039_005-SBCK.yaml, hash: 'sha256:e9276ac5fd18559ddc74f0980596a14fcb159d9029fb72c43045fed86512243b'}
+  - {seq: 6, filename: KR3h0039_006-SBCK.yaml, hash: 'sha256:05ae4a19479345ef409a93c5db4b183b5c4a401b7d4b0c86e79638742b3da72b'}
+  - {seq: 7, filename: KR3h0039_007-SBCK.yaml, hash: 'sha256:881663b816d1da713da1e847757dad09988998cd98df80a4d851ea746f3e8eb9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0039_000-SBCK.markers.yaml, hash: 'sha256:4b34c9ca518649d2d68e1e532841357e2c44927f66a90ff110c86cb50fe3074f'}
+  - {seq: 1, role: markers, filename: assets/KR3h0039_001-SBCK.markers.yaml, hash: 'sha256:1b434f39968d37b2934013620b498575d1bd1670b6d6a21926f74432d4c8a980'}
+  - {seq: 2, role: markers, filename: assets/KR3h0039_002-SBCK.markers.yaml, hash: 'sha256:adb8a67851a11eb868271af175fc75b03f602f757c0fa795bd13d532937b76b1'}
+  - {seq: 3, role: markers, filename: assets/KR3h0039_003-SBCK.markers.yaml, hash: 'sha256:e91ca5e3f393e2f259c65997a3a6bfc85b4631201f1a0a9e606ab1af4fb332ea'}
+  - {seq: 4, role: markers, filename: assets/KR3h0039_004-SBCK.markers.yaml, hash: 'sha256:b7b67653e0580b6bf11497147622fbc87eff620985d43ddf0c3992de6844fcc8'}
+  - {seq: 5, role: markers, filename: assets/KR3h0039_005-SBCK.markers.yaml, hash: 'sha256:fe2732d2fddd0be1a02d37f42be9576c682dbbea5b809d677e9fb37bbc16fac5'}
+  - {seq: 6, role: markers, filename: assets/KR3h0039_006-SBCK.markers.yaml, hash: 'sha256:afcabfde217499a73e97be05652cc07dae24886a494198984f5adcca3c46fcfb'}
+  - {seq: 7, role: markers, filename: assets/KR3h0039_007-SBCK.markers.yaml, hash: 'sha256:2e518619c490258cff3c4f9ef18d89984c691308634b726ea64f11f109f03d4b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0039_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 94
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3h0039_SBCK_001-1a
+    span:
+    - body
+    - 0
+    - 2228
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3h0039_SBCK_002-1a
+    span:
+    - body
+    - 0
+    - 1471
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3h0039_SBCK_003-1a
+    span:
+    - body
+    - 0
+    - 1614
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3h0039_SBCK_004-1a
+    span:
+    - body
+    - 0
+    - 843
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3h0039_SBCK_005-1a
+    span:
+    - body
+    - 0
+    - 1175
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3h0039_SBCK_006-1a
+    span:
+    - body
+    - 0
+    - 1682
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3h0039_SBCK_007-1a
+    span:
+    - body
+    - 0
+    - 2330
+  label: juan 007
+  type: section
+  level: 1
+hash: sha256:bf04e597b17deef2a28b50e818b9460c07a1bd576b5721a060db737bcd4f7685
